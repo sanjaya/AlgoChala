@@ -1,0 +1,23 @@
+Q1) Two number sum
+
+Write a function that takes In a non-empty array of distinct integers and an integer representing a target sum. If any two numbers in the Input array sum up to the target sum, the function should return them in an array, In any order. If no two numbers sum up to the target sum, the function should return an empty array.
+
+Note that the target sum has to be obtained by summing two different integers In the array. you can't add single integer to itself in order to obtain the target sum.
+You can assume that there will be at most one pair of numbers summing up to the target sum.
+
+Sample Input
+array	[3, 5, -4, 2, 11, 1, -1, 61
+
+TargetSum = 10
+
+Sample Output
+[-1, 11] //The numbers could be In reverse order
+
+Java Template:
+
+class Program {
+  public static int[] twoNumberSum(int[] array, int targetSum) {
+	
+        return pair;
+    }
+}
