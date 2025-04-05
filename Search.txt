@@ -1,0 +1,2 @@
+1. Implement Liner search
+2. Implement Binary search (Non recursive)
