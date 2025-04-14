@@ -12,3 +12,21 @@ Input : nums = [0, 1, 21, 33, 45, 45, 45, 45, 45, 45, 61, 71, 73], target =45 An
 def searchForRange(array, target):
     # Write your code here.
     pass
+
+4) Count Negative Numbers in a Sorted Matrix
+https://leetcode.com/problems/count-negative-numbers-in-a-sorted-matrix/description/
+5) Search in a sorted matrix
+
+find the target number
+matrix = [
+[1, 4, 7, 12, 15, 10001],
+12, 5, 19, 31, 32, 10011],
+[3, 8, 24, 33, 35, 10021],
+[40, 41, 42, 44, 45, 10031],
+[99, 100, 103, 106, 128, 1004],
+target = 44 O/p = [3, 3]
+[-1 -1 ] if not found
+
+def searchInSortedMatrix(matrix, target):
+    # Write your code here.
+    pass
